@@ -1,0 +1,6 @@
+@NissensVerksted_HostAddress = http://localhost:5271
+
+GET {{NissensVerksted_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
